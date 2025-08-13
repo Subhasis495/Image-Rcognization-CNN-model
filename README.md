@@ -1,4 +1,4 @@
-# Dogs vs. Cats Image Classification
+# Image Recognization CNN Model
 
 ## 📌 Project Overview
 This project classifies images of dogs and cats using a **Convolutional Neural Network (CNN)** built with TensorFlow and Keras.  
